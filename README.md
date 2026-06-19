@@ -19,7 +19,7 @@
 
 I'm a mobile app developer based in Pakistan with **3+ years of experience** building production-grade mobile applications for clients across Europe, North America, and beyond. I specialize in crafting apps that are fast, scalable, and maintainable — not just functional.
 
-- 🚀 **35+ apps** shipped across iOS & Android
+- 🚀 **30+ apps** shipped across iOS & Android
 - 🏢 Currently building at **Codefied** + freelancing on **Upwork**
 - 🧱 Architecture nerd — BLoC, Riverpod, Clean Architecture
 - 🔐 Backend integration: Firebase, Supabase, REST APIs, JWT auth
