@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3ECFCF&height=120&section=header" width="100%" />
 
 # Mohammad Hammad Ahmad
-### Mobile App Developer · Flutter Specialist · 35+ Apps Shipped
+### Mobile App Developer · Flutter Specialist · 30+ Apps Shipped
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mhammad.app-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhammad.app)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192023f6fdd05e7ab)
