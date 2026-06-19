@@ -57,7 +57,7 @@ I'm a mobile app developer based in Pakistan with **3+ years of experience** bui
 
 ## 📱 Featured Projects
 
-> A selection from **35+ apps** — see the full portfolio at [mhammad.app](https://mhammad.app)
+> A selection from **30+ apps** — see the full portfolio at [mhammad.app](https://mhammad.app)
 
 | App | Description | Links |
 |-----|-------------|-------|
